@@ -30,4 +30,5 @@ Future work could explore the application of advanced control techniques, real-t
 I would like to affiliate this project with <a href="https://www.vt.edu/">Virginia Tech</a>, which was performed under Dr. Steve Southward, Associate Professor.
 
 <a href="Markdown view of project.md">Click to view the Source code</a>
+<br>
 <a href="Simulation_animation.gif">View the output simulation here</a>
