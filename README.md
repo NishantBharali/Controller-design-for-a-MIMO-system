@@ -39,7 +39,7 @@ I would like to affiliate this project with <a href="https://www.vt.edu/">Virgin
 
 <br>
 
-<a href="Markdown view of project.md" center>Click to view the Source code</a>
+<a href="Markdown view of project.md" style="align-items: center">Click to view the Source code</a>
 <br>
 <br>
 <a href="Simulation_animation.gif">View the output simulation here</a>
