@@ -27,7 +27,7 @@ This research presents a robust approach to full-state feedback control design f
 Future work could explore the application of advanced control techniques, real-time implementations, and adaptive strategies to further enhance the performance and robustness of the drone landing control system.
 
 **Affiliation**
-I would like to affiliate this project with <a href="https://www.vt.edu/">Virginia Tech</a>, which was performed under Dr. Steve Southward, Associate Professor.
+I would like to affiliate this project with <a href="https://www.vt.edu/">Virginia Tech</a>, which was performed under <a href="https://me.vt.edu/people/faculty/southward-steve.html">Dr. Steve Southward, Associate Professor</a>.
 
 <a href="Markdown view of project.md">Click to view the Source code</a>
 <br>
